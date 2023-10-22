@@ -1,0 +1,15 @@
+C:\Users\L\Desktop\aus_c#\c#_part3\bin\Debug\net6.0\c#_part3.exe
+C:\Users\L\Desktop\aus_c#\c#_part3\bin\Debug\net6.0\c#_part3.deps.json
+C:\Users\L\Desktop\aus_c#\c#_part3\bin\Debug\net6.0\c#_part3.runtimeconfig.json
+C:\Users\L\Desktop\aus_c#\c#_part3\bin\Debug\net6.0\c#_part3.dll
+C:\Users\L\Desktop\aus_c#\c#_part3\bin\Debug\net6.0\c#_part3.pdb
+C:\Users\L\Desktop\aus_c#\c#_part3\obj\Debug\net6.0\c#_part3.csproj.AssemblyReference.cache
+C:\Users\L\Desktop\aus_c#\c#_part3\obj\Debug\net6.0\c#_part3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L\Desktop\aus_c#\c#_part3\obj\Debug\net6.0\c#_part3.AssemblyInfoInputs.cache
+C:\Users\L\Desktop\aus_c#\c#_part3\obj\Debug\net6.0\c#_part3.AssemblyInfo.cs
+C:\Users\L\Desktop\aus_c#\c#_part3\obj\Debug\net6.0\c#_part3.csproj.CoreCompileInputs.cache
+C:\Users\L\Desktop\aus_c#\c#_part3\obj\Debug\net6.0\c#_part3.dll
+C:\Users\L\Desktop\aus_c#\c#_part3\obj\Debug\net6.0\refint\c#_part3.dll
+C:\Users\L\Desktop\aus_c#\c#_part3\obj\Debug\net6.0\c#_part3.pdb
+C:\Users\L\Desktop\aus_c#\c#_part3\obj\Debug\net6.0\c#_part3.genruntimeconfig.cache
+C:\Users\L\Desktop\aus_c#\c#_part3\obj\Debug\net6.0\ref\c#_part3.dll
